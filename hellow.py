@@ -4,5 +4,5 @@ b=6
 sum=(a+b)
 print (sum)
 print ("From mumbai git Vm")
-print ("From Singapore Git")
+print ("From Singapore Gi")
 
